@@ -267,7 +267,7 @@
         <mxCell id="sXus3ZveV_jTFedlbuJy-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXus3ZveV_jTFedlbuJy-134" target="sXus3ZveV_jTFedlbuJy-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sXus3ZveV_jTFedlbuJy-134" value="执行 svn add&amp;nbsp; 文件路径数组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sXus3ZveV_jTFedlbuJy-134" value="执行 svn add&amp;nbsp;&amp;nbsp;&lt;div&gt;文件路径数组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="970" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
