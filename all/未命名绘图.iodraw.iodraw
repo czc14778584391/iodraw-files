@@ -101,8 +101,10 @@
         <mxCell id="sXus3ZveV_jTFedlbuJy-52" value="使用svn status 筛选&lt;br&gt;状态为M 的 bytes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="835" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sXus3ZveV_jTFedlbuJy-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXus3ZveV_jTFedlbuJy-55" target="sXus3ZveV_jTFedlbuJy-57">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sXus3ZveV_jTFedlbuJy-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sXus3ZveV_jTFedlbuJy-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="1040" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-55" value="生成 bytes+表格+ 其他的文件路径数组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="905" width="130" height="50" as="geometry" />
@@ -110,11 +112,14 @@
         <mxCell id="sXus3ZveV_jTFedlbuJy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sXus3ZveV_jTFedlbuJy-57" target="sXus3ZveV_jTFedlbuJy-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sXus3ZveV_jTFedlbuJy-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sXus3ZveV_jTFedlbuJy-57" target="sXus3ZveV_jTFedlbuJy-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-57" value="使用svn commit -m ‘commiti_d tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="1010" width="130" height="65" as="geometry" />
+          <mxGeometry x="297.5" y="1045" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-62" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="301.5" y="1195" width="120" height="50" as="geometry" />
+          <mxGeometry x="301.5" y="1230" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXus3ZveV_jTFedlbuJy-63" target="sXus3ZveV_jTFedlbuJy-62">
           <mxGeometry relative="1" as="geometry" />
@@ -128,13 +133,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-63" value="success" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="1105" width="77.5" height="60" as="geometry" />
+          <mxGeometry x="322.5" y="1140" width="77.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-66" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="1165" width="60" height="30" as="geometry" />
+          <mxGeometry x="367.5" y="1200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-67" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1105" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-68" value="重新提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="680" width="60" height="30" as="geometry" />
@@ -261,8 +266,14 @@
         <mxCell id="sXus3ZveV_jTFedlbuJy-133" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sXus3ZveV_jTFedlbuJy-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXus3ZveV_jTFedlbuJy-55" target="sXus3ZveV_jTFedlbuJy-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="363" y="955" as="sourcePoint" />
+            <mxPoint x="363" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-134" value="生成 bytes+表格+ 其他的文件路径数组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="915" width="130" height="50" as="geometry" />
+          <mxGeometry x="297.5" y="970" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
