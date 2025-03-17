@@ -300,10 +300,10 @@
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-13" value="展示任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1960" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UcQpFMSLSs6AIVnLOnvW-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-18" value="websocket&lt;br&gt;调起后台任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2150" y="235" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UcQpFMSLSs6AIVnLOnvW-21" value="展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-21" value="启动任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2180" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
