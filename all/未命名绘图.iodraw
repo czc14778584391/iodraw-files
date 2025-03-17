@@ -280,10 +280,10 @@
           <mxGeometry x="2020" y="150" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-4" value="读取本地缓存&lt;br&gt;任务历史" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="1940" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-5" value="读取本地缓存&lt;br&gt;任务历史" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="270" width="100" height="40" as="geometry" />
+          <mxGeometry x="1940" y="280" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
