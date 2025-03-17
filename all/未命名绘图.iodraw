@@ -312,6 +312,9 @@
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-21" value="启动任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2180" y="180" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UcQpFMSLSs6AIVnLOnvW-22" target="UcQpFMSLSs6AIVnLOnvW-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-22" value="stdout.on&lt;div&gt;stderr.on&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2100" y="310" width="100" height="40" as="geometry" />
         </mxCell>
@@ -325,7 +328,7 @@
           <mxGeometry x="2290" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-31" value="stdout.on&lt;div&gt;stderr.on&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="375" width="100" height="40" as="geometry" />
+          <mxGeometry x="2170" y="390" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
