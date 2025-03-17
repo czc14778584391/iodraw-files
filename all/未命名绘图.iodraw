@@ -345,8 +345,14 @@
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-37" value="任务结束，把进程&lt;br&gt;数据save到本地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2020" y="505" width="100" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UcQpFMSLSs6AIVnLOnvW-39" target="UcQpFMSLSs6AIVnLOnvW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-39" value="历史任务" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1790" y="235" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
