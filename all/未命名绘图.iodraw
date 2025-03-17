@@ -378,8 +378,8 @@
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-51" value="执行process.kill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="450" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UcQpFMSLSs6AIVnLOnvW-53" value="展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="455" width="100" height="40" as="geometry" />
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-53" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="575" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
