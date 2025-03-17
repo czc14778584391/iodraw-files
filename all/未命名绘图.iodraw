@@ -357,8 +357,14 @@
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-42" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1730" y="240" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UcQpFMSLSs6AIVnLOnvW-43" target="UcQpFMSLSs6AIVnLOnvW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-43" value="轮询接口&lt;br&gt;向app请求实时log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="420" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
