@@ -370,7 +370,10 @@
           <mxGeometry x="2160" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-50" value="中止任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="2200" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-51" value="通过进程ID&lt;br&gt;在任务池匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="450" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
