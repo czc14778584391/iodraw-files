@@ -282,6 +282,9 @@
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UcQpFMSLSs6AIVnLOnvW-3" target="UcQpFMSLSs6AIVnLOnvW-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UcQpFMSLSs6AIVnLOnvW-3" target="UcQpFMSLSs6AIVnLOnvW-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-3" value="注册操作任务池的&lt;br&gt;websocket&amp;nbsp; API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1870" y="150" width="160" height="40" as="geometry" />
         </mxCell>
@@ -342,8 +345,8 @@
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-37" value="任务结束，把进程&lt;br&gt;数据save到本地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2020" y="505" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="UcQpFMSLSs6AIVnLOnvW-39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="235" width="80" height="80" as="geometry" />
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-39" value="历史任务" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="235" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
