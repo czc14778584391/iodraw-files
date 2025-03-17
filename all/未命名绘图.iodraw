@@ -333,6 +333,9 @@
         <mxCell id="UcQpFMSLSs6AIVnLOnvW-31" value="把log保存在进程&lt;br&gt;变量内" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2170" y="390" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UcQpFMSLSs6AIVnLOnvW-35" value="把log保存在进程&lt;br&gt;变量内" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="445" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
