@@ -649,6 +649,9 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-108" value="使用svn commit -m tapd&amp;nbsp; tdr_checkid=commit_id files&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-685.5" y="855" width="220" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-110" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1217.4499999999998" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
