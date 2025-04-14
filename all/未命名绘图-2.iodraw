@@ -660,8 +660,8 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-111" target="9H3wD_S3jYXgOb2AgB-T-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-111" value="是否特性分支" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1275.9499999999998" y="555" width="110" height="80" as="geometry" />
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-111" value="是否特性分支&lt;div&gt;_publish_&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="550" width="114.05" height="85" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-114" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1275.9499999999998" y="645" width="60" height="30" as="geometry" />
@@ -688,7 +688,7 @@
           <mxGeometry x="-1074.75" y="790" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-124" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1177.4499999999998" y="555" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1159.4999999999998" y="565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="9H3wD_S3jYXgOb2AgB-T-118">
           <mxGeometry relative="1" as="geometry">
