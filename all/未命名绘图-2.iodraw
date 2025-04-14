@@ -602,11 +602,10 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-83" value="files =&amp;nbsp;&amp;nbsp;bytes+表格+ 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-664.25" y="700" width="179.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-85" target="9H3wD_S3jYXgOb2AgB-T-89">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-85" value="使用svn commit -m ‘commiti_d tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-639.5" y="850" width="130" height="65" as="geometry" />
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="9H3wD_S3jYXgOb2AgB-T-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-574.5" y="915" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-86" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-635.5" y="1035" width="120" height="50" as="geometry" />
@@ -649,11 +648,16 @@
             <mxPoint x="-574" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-98" target="9H3wD_S3jYXgOb2AgB-T-85">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-574.5" y="850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-98" value="执行 svn add&amp;nbsp;&amp;nbsp;&lt;div&gt;文件路径数组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-639.5" y="780" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-108" value="使用svn commit -m tapd&amp;nbsp; tdr_checkid=commit_id files&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1321.2" y="632.5" width="220" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
