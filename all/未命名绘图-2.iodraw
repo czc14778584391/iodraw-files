@@ -433,8 +433,10 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-14" target="9H3wD_S3jYXgOb2AgB-T-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-14" target="9H3wD_S3jYXgOb2AgB-T-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-670.0999999999999" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-14" value="冲突" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-717.5999999999999" y="190" width="95" height="60" as="geometry" />
@@ -457,11 +459,11 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-20" value="下载配置中心&lt;br&gt;生成的文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-732.5999999999999" y="705" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-22" target="9H3wD_S3jYXgOb2AgB-T-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-22" value="svn update&lt;br&gt;G:\\Project\RawAssets\Domestic&lt;br&gt;更新bytes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-770.0999999999999" y="290" width="200" height="50" as="geometry" />
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-670.0999999999999" y="340" as="sourcePoint" />
+            <mxPoint x="-670.1199999999999" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-23" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-605.0999999999999" y="190" width="60" height="30" as="geometry" />
@@ -469,11 +471,10 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-24" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-717.5999999999999" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-26" target="9H3wD_S3jYXgOb2AgB-T-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-26" value="如果冲突&lt;br&gt;svn resolve&lt;br&gt;选择最新提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-731.0999999999999" y="370" width="122" height="50" as="geometry" />
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="9H3wD_S3jYXgOb2AgB-T-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-670.0999999999999" y="420" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-27" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-762.5999999999999" y="585" width="60" height="30" as="geometry" />
