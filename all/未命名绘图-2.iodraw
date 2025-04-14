@@ -468,32 +468,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-34" value="使用svn commit -m ‘commiti_d tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-732.5999999999999" y="880" width="130" height="65" as="geometry" />
+          <mxGeometry x="-732.5999999999999" y="542.5" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-35" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-728.5999999999999" y="1065" width="120" height="50" as="geometry" />
+          <mxGeometry x="-728.5999999999999" y="727.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-38" target="9H3wD_S3jYXgOb2AgB-T-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-38" target="9H3wD_S3jYXgOb2AgB-T-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-560" y="1005" />
-              <mxPoint x="-560" y="1165" />
-              <mxPoint x="-403" y="1165" />
-              <mxPoint x="-403" y="135" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-38" value="success" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-707.5999999999999" y="975" width="77.5" height="60" as="geometry" />
+          <mxGeometry x="-707.5999999999999" y="637.5" width="77.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-39" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-662.5999999999999" y="1035" width="60" height="30" as="geometry" />
+          <mxGeometry x="-662.5999999999999" y="697.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-40" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-630.0999999999999" y="975" width="60" height="30" as="geometry" />
+          <mxGeometry x="-630.0999999999999" y="637.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-41" value="重新提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-382.5999999999999" y="680" width="60" height="30" as="geometry" />
