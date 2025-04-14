@@ -520,40 +520,40 @@
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9H3wD_S3jYXgOb2AgB-T-95">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="372.5" y="500" as="sourcePoint" />
+            <mxPoint x="-577" y="487.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-53" value="把表格打包上传至&lt;div&gt;配置中心处理，获取commitid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295.25" y="460" width="152.5" height="55" as="geometry" />
+          <mxGeometry x="-654.25" y="447.5" width="152.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-55" target="9H3wD_S3jYXgOb2AgB-T-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-55" value="检查并修改文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="142.5" y="620" width="150" height="50" as="geometry" />
+          <mxGeometry x="-807" y="607.5" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-58" target="9H3wD_S3jYXgOb2AgB-T-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="645" as="targetPoint" />
+            <mxPoint x="-649.5" y="632.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-58" value="检验处理成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="316.5" y="605" width="110" height="80" as="geometry" />
+          <mxGeometry x="-633" y="592.5" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-59" value="表格+其他文件提交流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="50" width="150" height="30" as="geometry" />
+          <mxGeometry x="-649.5" y="37.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-60" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="371.5" y="685" width="60" height="30" as="geometry" />
+          <mxGeometry x="-578" y="672.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-62" target="9H3wD_S3jYXgOb2AgB-T-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-62" value="表格文件执行svn update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="120" width="150" height="50" as="geometry" />
+          <mxGeometry x="-652" y="107.5" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-65" target="9H3wD_S3jYXgOb2AgB-T-67">
           <mxGeometry relative="1" as="geometry" />
@@ -562,70 +562,70 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-65" value="冲突" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="200" width="95" height="60" as="geometry" />
+          <mxGeometry x="-624.5" y="187.5" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-67" target="9H3wD_S3jYXgOb2AgB-T-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-67" value="提示解决冲突" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-459.5" y="187.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-68" value="重新提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="-452" y="97.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-69" value="重新提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="-762" y="107.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-71" target="9H3wD_S3jYXgOb2AgB-T-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-71" value="下载配置中心&lt;br&gt;生成的文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="715" width="125" height="40" as="geometry" />
+          <mxGeometry x="-639.5" y="702.5" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-73" target="9H3wD_S3jYXgOb2AgB-T-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-73" value="svn update&lt;br&gt;G:\\Project\RawAssets\Domestic&lt;br&gt;更新bytes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="300" width="200" height="50" as="geometry" />
+          <mxGeometry x="-677" y="287.5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-74" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="437.5" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="-512" y="187.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-75" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="-624.5" y="247.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-77" target="9H3wD_S3jYXgOb2AgB-T-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-77" value="如果冲突&lt;br&gt;svn resolve&lt;br&gt;选择最新提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311.5" y="380" width="122" height="50" as="geometry" />
+          <mxGeometry x="-638" y="367.5" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-78" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="595" width="60" height="30" as="geometry" />
+          <mxGeometry x="-669.5" y="582.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-80" target="9H3wD_S3jYXgOb2AgB-T-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-80" value="解压、覆盖到本地文件&lt;div&gt;clean up 文件夹&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="785" width="125" height="40" as="geometry" />
+          <mxGeometry x="-639.5" y="772.5" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-82" target="9H3wD_S3jYXgOb2AgB-T-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-82" value="使用svn status 筛选&lt;br&gt;状态为M 的 bytes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="845" width="130" height="50" as="geometry" />
+          <mxGeometry x="-642" y="832.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-83" value="生成 bytes+表格+ 其他的文件路径数组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="915" width="130" height="50" as="geometry" />
+          <mxGeometry x="-642" y="902.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-85" target="9H3wD_S3jYXgOb2AgB-T-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-85" value="使用svn commit -m ‘commiti_d tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="1050" width="130" height="65" as="geometry" />
+          <mxGeometry x="-642" y="1037.5" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-86" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311.5" y="1235" width="120" height="50" as="geometry" />
+          <mxGeometry x="-638" y="1222.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-89" target="9H3wD_S3jYXgOb2AgB-T-86">
           <mxGeometry relative="1" as="geometry" />
@@ -633,43 +633,43 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-89" target="9H3wD_S3jYXgOb2AgB-T-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="1175" />
-              <mxPoint x="640" y="145" />
+              <mxPoint x="-309.5" y="1162.5" />
+              <mxPoint x="-309.5" y="132.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-89" value="success" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="332.5" y="1145" width="77.5" height="60" as="geometry" />
+          <mxGeometry x="-617" y="1132.5" width="77.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-90" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="1205" width="60" height="30" as="geometry" />
+          <mxGeometry x="-572" y="1192.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-91" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1145" width="60" height="30" as="geometry" />
+          <mxGeometry x="-539.5" y="1132.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-92" value="重新提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="-289.5" y="677.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-93" value="解决冲突后" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="160" width="78" height="30" as="geometry" />
+          <mxGeometry x="-477" y="147.5" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-95" target="9H3wD_S3jYXgOb2AgB-T-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-95" value="轮询处理状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="540" width="150" height="40" as="geometry" />
+          <mxGeometry x="-652" y="527.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-83" target="9H3wD_S3jYXgOb2AgB-T-98">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="373" y="965" as="sourcePoint" />
-            <mxPoint x="373" y="1020" as="targetPoint" />
+            <mxPoint x="-576.5" y="952.5" as="sourcePoint" />
+            <mxPoint x="-576.5" y="1007.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-98" target="9H3wD_S3jYXgOb2AgB-T-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-98" value="执行 svn add&amp;nbsp;&amp;nbsp;&lt;div&gt;文件路径数组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="980" width="130" height="50" as="geometry" />
+          <mxGeometry x="-642" y="967.5" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
