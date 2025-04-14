@@ -523,7 +523,7 @@
             <mxPoint x="-577" y="487.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-53" value="把表格打包上传至&lt;div&gt;配置中心处理，获取commitid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-53" value="把配置表打包上传至&lt;div&gt;配置中心校验，获取commitid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-654.25" y="447.5" width="152.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-55" target="9H3wD_S3jYXgOb2AgB-T-62">
