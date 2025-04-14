@@ -409,14 +409,17 @@
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-668.5999999999999" y="552.5" as="sourcePoint" />
-            <mxPoint x="-667.56" y="582.5" as="targetPoint" />
+            <mxPoint x="-668.5999999999999" y="592.5" as="sourcePoint" />
+            <mxPoint x="-667.56" y="622.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-740.0999999999999" y="475" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-7" target="9H3wD_S3jYXgOb2AgB-T-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-7" value="校验成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-723.5999999999999" y="435" width="110" height="80" as="geometry" />
@@ -425,7 +428,7 @@
           <mxGeometry x="-782.65" y="40" width="222.6" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-9" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-668.5999999999999" y="552.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-668.5999999999999" y="592.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-11" target="9H3wD_S3jYXgOb2AgB-T-14">
           <mxGeometry relative="1" as="geometry" />
@@ -469,19 +472,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-34" value="使用svn commit -m ‘commiti_d tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-732.5999999999999" y="580" width="130" height="65" as="geometry" />
+          <mxGeometry x="-732.5999999999999" y="620" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-35" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-728.5999999999999" y="765" width="120" height="50" as="geometry" />
+          <mxGeometry x="-728.5999999999999" y="805" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-38" target="9H3wD_S3jYXgOb2AgB-T-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-38" value="success" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-707.5999999999999" y="675" width="77.5" height="60" as="geometry" />
+          <mxGeometry x="-707.5999999999999" y="715" width="77.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-39" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-662.5999999999999" y="735" width="60" height="30" as="geometry" />
+          <mxGeometry x="-662.5999999999999" y="775" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-40" target="9H3wD_S3jYXgOb2AgB-T-11">
           <mxGeometry relative="1" as="geometry">
@@ -492,10 +495,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-40" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-630.0999999999999" y="675" width="60" height="30" as="geometry" />
+          <mxGeometry x="-630.0999999999999" y="715" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-41" value="重新提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-520.9999999999999" y="675" width="60" height="30" as="geometry" />
+          <mxGeometry x="-520.9999999999999" y="715" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-42" value="解决冲突后" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-570.0999999999999" y="150" width="78" height="30" as="geometry" />
@@ -507,7 +510,7 @@
           <mxGeometry x="-742.5999999999999" y="370" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-50" value="轮询校验状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-732.5999999999999" y="520" width="150" height="40" as="geometry" />
+          <mxGeometry x="-742.3499999999999" y="552.5" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
