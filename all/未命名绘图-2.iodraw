@@ -591,17 +591,18 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-78" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-667" y="435" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-80" target="9H3wD_S3jYXgOb2AgB-T-82">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-574.5" y="685" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-80" value="记录生成的bytes文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-637" y="625" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-82" target="9H3wD_S3jYXgOb2AgB-T-83">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-82" value="使用svn status 筛选&lt;br&gt;状态为M 的 bytes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-639.5" y="685" width="130" height="50" as="geometry" />
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9H3wD_S3jYXgOb2AgB-T-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-574.5" y="735" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-83" value="生成 bytes+表格+ 其他的文件路径数组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-639.5" y="755" width="130" height="50" as="geometry" />
