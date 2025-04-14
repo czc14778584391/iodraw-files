@@ -544,7 +544,7 @@
           <mxGeometry x="-633" y="592.5" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-59" value="非特性分支表格+其他文件提交流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-649.5" y="37.5" width="150" height="30" as="geometry" />
+          <mxGeometry x="-649.5" y="37.5" width="219.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-60" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-578" y="672.5" width="60" height="30" as="geometry" />
