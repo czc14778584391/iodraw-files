@@ -469,7 +469,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-34" value="使用svn commit -m tapd&amp;nbsp; tdr_checkid=commit_id files&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1330.95" y="840" width="220" height="65" as="geometry" />
+          <mxGeometry x="-1332.98" y="840" width="220" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-35" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1280.6999999999996" y="1032.5" width="120" height="50" as="geometry" />
@@ -510,7 +510,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-50" value="需要提交的文件&lt;br&gt;files = 配置表 + 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1295.95" y="692.5" width="150" height="52.5" as="geometry" />
+          <mxGeometry x="-1297.2" y="695" width="150" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9H3wD_S3jYXgOb2AgB-T-95">
           <mxGeometry relative="1" as="geometry">
@@ -655,7 +655,11 @@
           <mxGeometry x="-1280.6999999999998" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-111" target="9H3wD_S3jYXgOb2AgB-T-116">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1072" y="593" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-111" target="9H3wD_S3jYXgOb2AgB-T-50">
           <mxGeometry relative="1" as="geometry" />
@@ -670,7 +674,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-116" value="执行本地转表（覆盖）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1072.25" y="575" width="125" height="40" as="geometry" />
+          <mxGeometry x="-1069.75" y="572.5" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-119" value="&lt;div&gt;需要提交的文件&lt;/div&gt;files =&amp;nbsp;&amp;nbsp;bytes+配置表+ 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1099.5" y="692.5" width="179.5" height="57.5" as="geometry" />
