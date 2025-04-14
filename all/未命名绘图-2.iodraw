@@ -509,7 +509,7 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-44" value="轮询校验状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-742.5999999999999" y="370" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-50" value="轮询校验状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-742.3499999999999" y="552.5" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
