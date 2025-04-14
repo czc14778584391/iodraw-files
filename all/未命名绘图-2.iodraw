@@ -499,7 +499,7 @@
           <mxGeometry x="-1294.9499999999998" y="370" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-50" value="需要提交的文件&lt;br&gt;files = 配置表 + 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1295.95" y="697.5" width="150" height="52.5" as="geometry" />
+          <mxGeometry x="-1295.95" y="692.5" width="150" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9H3wD_S3jYXgOb2AgB-T-95">
           <mxGeometry relative="1" as="geometry">
@@ -653,7 +653,7 @@
           <mxGeometry x="-1275.9499999999998" y="555" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-114" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1319.9999999999998" y="553.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1275.9499999999998" y="645" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-116" target="9H3wD_S3jYXgOb2AgB-T-118">
           <mxGeometry relative="1" as="geometry" />
