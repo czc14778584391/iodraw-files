@@ -471,8 +471,8 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-34" target="9H3wD_S3jYXgOb2AgB-T-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-34" value="使用svn commit -m ‘commiti_d tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-732.5999999999999" y="620" width="130" height="65" as="geometry" />
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-34" value="使用svn commit -m tapd&amp;nbsp; tdr_checkid=commit_id&amp;nbsp;paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="620" width="187.4" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-35" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-728.5999999999999" y="805" width="120" height="50" as="geometry" />
