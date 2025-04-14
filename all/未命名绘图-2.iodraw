@@ -641,13 +641,16 @@
           <mxGeometry x="-685.5" y="855" width="220" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-110" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1189.9999999999998" y="525" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1225.9499999999998" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-111" target="9H3wD_S3jYXgOb2AgB-T-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-111" value="是否特性分支" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1275.9499999999998" y="542.5" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-114" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1340.0499999999997" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
