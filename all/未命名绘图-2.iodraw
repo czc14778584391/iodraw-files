@@ -515,7 +515,7 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-44" value="轮询校验状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1294.9499999999998" y="370" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-50" value="files = excel + 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-50" value="files = 配置表 + 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1294.6999999999998" y="552.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9H3wD_S3jYXgOb2AgB-T-95">
@@ -543,7 +543,7 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-58" value="检验处理成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-633" y="592.5" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-59" value="非特性分支表格+其他文件提交流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-59" value="非特性分支：表格+其他文件提交流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-649.5" y="37.5" width="219.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-60" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
