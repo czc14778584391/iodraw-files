@@ -652,6 +652,32 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-114" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1340.0499999999997" y="550" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-116" target="9H3wD_S3jYXgOb2AgB-T-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-116" value="执行本地转表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-627" y="565" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="9H3wD_S3jYXgOb2AgB-T-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-564.5" y="635" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-118" value="记录生成的bytes文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-627" y="630" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-119" value="&lt;div&gt;需要提交的文件&lt;/div&gt;files =&amp;nbsp;&amp;nbsp;bytes+配置表+ 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-654.25" y="690" width="179.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-119" target="9H3wD_S3jYXgOb2AgB-T-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-564" y="775" as="sourcePoint" />
+            <mxPoint x="-564" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-121" value="执行 svn add&amp;nbsp;&amp;nbsp;&lt;div&gt;文件路径数组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-629.5" y="790" width="130" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
