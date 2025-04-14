@@ -674,7 +674,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-116" value="执行本地转表（覆盖）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1069.75" y="572.5" width="125" height="40" as="geometry" />
+          <mxGeometry x="-1069.75" y="540" width="125" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-119" value="&lt;div&gt;需要提交的文件&lt;/div&gt;files =&amp;nbsp;&amp;nbsp;bytes+配置表+ 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1099.5" y="692.5" width="179.5" height="57.5" as="geometry" />
