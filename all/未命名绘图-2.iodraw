@@ -485,11 +485,8 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-40" target="9H3wD_S3jYXgOb2AgB-T-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-630" y="687" />
-              <mxPoint x="-390" y="687" />
-              <mxPoint x="-390" y="399" />
-              <mxPoint x="-575" y="399" />
-              <mxPoint x="-575" y="135" />
+              <mxPoint x="-390" y="667" />
+              <mxPoint x="-390" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -497,7 +494,7 @@
           <mxGeometry x="-630.0999999999999" y="637.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-41" value="重新提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-382.5999999999999" y="680" width="60" height="30" as="geometry" />
+          <mxGeometry x="-229.99999999999991" y="675" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-42" value="解决冲突后" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-570.0999999999999" y="150" width="78" height="30" as="geometry" />
