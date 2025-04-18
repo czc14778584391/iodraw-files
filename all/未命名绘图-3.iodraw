@@ -624,8 +624,8 @@
         <mxCell id="GrXYVL5tApbXH94J8_bh-22" value="读convlist.xml&lt;br&gt;获取转表生成的文件目录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1365" y="790" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GrXYVL5tApbXH94J8_bh-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1345" y="874" width="80" height="80" as="geometry" />
+        <mxCell id="GrXYVL5tApbXH94J8_bh-23" value="在目录public| server" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1365" y="868.75" width="140" height="86.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
