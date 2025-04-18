@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="FSDPr361N1Il04kKyCls">
-    <mxGraphModel dx="4366" dy="2167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5246" dy="2633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -537,8 +537,16 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-116" value="&lt;div&gt;对待提交配置表&lt;/div&gt;执行本地转表（覆盖）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-302.89" y="543.75" width="125" height="42.5" as="geometry" />
         </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-119" target="GrXYVL5tApbXH94J8_bh-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-119" value="&lt;div&gt;需要提交的文件&lt;/div&gt;files =&amp;nbsp;&amp;nbsp;bytes+配置表+ 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-332.64" y="666.25" width="179.5" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="840.272727272727" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-121" value="执行 svn add&amp;nbsp;&amp;nbsp;&lt;div&gt;文件路径数组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-307.89" y="815.01" width="130" height="50" as="geometry" />
@@ -682,6 +690,9 @@
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-52" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1227.4999999999998" y="888.14" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-53" target="9H3wD_S3jYXgOb2AgB-T-121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-53" value="筛选有变更的bytes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-305.39" y="745" width="130" height="50" as="geometry" />
