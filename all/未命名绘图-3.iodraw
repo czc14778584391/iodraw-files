@@ -567,8 +567,8 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-118" value="记录生成的bytes文件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-302.89" y="608.75" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-133" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1449.9999999999998" y="100" width="150" height="50" as="geometry" />
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-133" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1440" y="90" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-1" value="本地转表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1410" y="53.75" width="70" height="30" as="geometry" />
