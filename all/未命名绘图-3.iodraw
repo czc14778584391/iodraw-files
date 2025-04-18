@@ -567,14 +567,17 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-118" value="记录生成的bytes文件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-302.89" y="608.75" width="125" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9H3wD_S3jYXgOb2AgB-T-133" target="GrXYVL5tApbXH94J8_bh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-133" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1440" y="90" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-1" value="本地转表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1410" y="53.75" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GrXYVL5tApbXH94J8_bh-2" value="是否是配置表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1420" y="155" width="100" height="85" as="geometry" />
+        <mxCell id="GrXYVL5tApbXH94J8_bh-2" value="配置表？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1425" y="153.75" width="100" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
