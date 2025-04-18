@@ -592,13 +592,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-6" value="读branchinfo.txt&lt;br&gt;获取ipsName" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="368.75" width="110" height="40" as="geometry" />
+          <mxGeometry x="-1430" y="358.75" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-10" target="GrXYVL5tApbXH94J8_bh-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-10" value="拼接命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="435" width="110" height="45" as="geometry" />
+          <mxGeometry x="-1430" y="430" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-12" value="TableLogic.xml&lt;br&gt;存在该表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1435" y="575" width="120" height="100" as="geometry" />
@@ -607,7 +607,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-14" value="往Databin&lt;br&gt;执行第一次转表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="505" width="110" height="45" as="geometry" />
+          <mxGeometry x="-1430" y="498.75" width="110" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
