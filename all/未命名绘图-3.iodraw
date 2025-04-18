@@ -674,8 +674,8 @@
         <mxCell id="GrXYVL5tApbXH94J8_bh-39" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1307.4999999999998" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GrXYVL5tApbXH94J8_bh-40" value="拼接命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1150" y="618.75" width="130" height="47" as="geometry" />
+        <mxCell id="GrXYVL5tApbXH94J8_bh-40" value="读" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="279" width="130" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
