@@ -687,7 +687,10 @@
           <mxGeometry x="-1244.9999999999998" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-51" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1234.9999999999998" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1232.4999999999998" y="835" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-52" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1307.4999999999998" y="910.01" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
