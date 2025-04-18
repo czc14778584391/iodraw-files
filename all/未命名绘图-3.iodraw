@@ -540,12 +540,6 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-119" value="&lt;div&gt;需要提交的文件&lt;/div&gt;files =&amp;nbsp;&amp;nbsp;bytes+配置表+ 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-332.64" y="666.25" width="179.5" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9H3wD_S3jYXgOb2AgB-T-119" target="9H3wD_S3jYXgOb2AgB-T-121" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-242.39" y="743.75" as="sourcePoint" />
-            <mxPoint x="-242.39" y="798.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-121" value="执行 svn add&amp;nbsp;&amp;nbsp;&lt;div&gt;文件路径数组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-307.89" y="815.01" width="130" height="50" as="geometry" />
         </mxCell>
@@ -688,6 +682,9 @@
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-52" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1227.4999999999998" y="888.14" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-53" value="执行 svn add&amp;nbsp;&amp;nbsp;&lt;div&gt;文件路径数组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-305.39" y="745" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
