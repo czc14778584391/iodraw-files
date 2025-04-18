@@ -600,7 +600,7 @@
         <mxCell id="GrXYVL5tApbXH94J8_bh-10" value="拼接命令&lt;br&gt;执行第一次转表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="435" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="GrXYVL5tApbXH94J8_bh-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GrXYVL5tApbXH94J8_bh-12" value="TableLogic.xml&lt;br&gt;存在该表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1420" y="500" width="100" height="75" as="geometry" />
         </mxCell>
       </root>
