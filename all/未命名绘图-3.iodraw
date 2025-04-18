@@ -615,8 +615,8 @@
         <mxCell id="GrXYVL5tApbXH94J8_bh-18" value="拼接命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="609" width="130" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="GrXYVL5tApbXH94J8_bh-20" value="往Databin&lt;br&gt;执行第一次转表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1340" y="518.75" width="110" height="45" as="geometry" />
+        <mxCell id="GrXYVL5tApbXH94J8_bh-20" value="往Databin&lt;br&gt;执行第二次转表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="700" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
