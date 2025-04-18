@@ -621,8 +621,14 @@
         <mxCell id="GrXYVL5tApbXH94J8_bh-18" value="拼接命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1160" y="608.75" width="130" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-20" target="GrXYVL5tApbXH94J8_bh-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-20" value="往Databin_ForPubSkinTest&lt;br&gt;执行第二次转表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="682.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-22" target="GrXYVL5tApbXH94J8_bh-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-22" value="读convlist.xml&lt;br&gt;获取转表生成的文件目录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1365" y="745" width="140" height="50" as="geometry" />
