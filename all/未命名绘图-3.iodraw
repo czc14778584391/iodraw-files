@@ -663,7 +663,7 @@
           <mxGeometry x="-1357.5" y="1040" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-37" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1299.9999999999998" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1289.9999999999998" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-38" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1379.9999999999998" y="160" width="60" height="30" as="geometry" />
@@ -678,7 +678,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-44" value="读branchinfo.txt&lt;br&gt;获取ipsName" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1350" y="250" width="110" height="40" as="geometry" />
+          <mxGeometry x="-1350" y="255" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-49" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1244.9999999999998" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
