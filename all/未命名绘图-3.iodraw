@@ -593,6 +593,9 @@
         <mxCell id="GrXYVL5tApbXH94J8_bh-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-4" target="GrXYVL5tApbXH94J8_bh-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-4" target="GrXYVL5tApbXH94J8_bh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-4" value="资源屏蔽表？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1345" y="315" width="100" height="85" as="geometry" />
         </mxCell>
@@ -660,7 +663,7 @@
           <mxGeometry x="-1357.5" y="1040" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-37" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1224.9999999999998" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1299.9999999999998" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-38" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1379.9999999999998" y="160" width="60" height="30" as="geometry" />
@@ -669,7 +672,10 @@
           <mxGeometry x="-979.9999999999998" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-40" value="读TableLogic.xml&lt;br&gt;获取关联表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1165" y="337.75" width="130" height="47" as="geometry" />
+          <mxGeometry x="-1180" y="334" width="130" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-44" target="GrXYVL5tApbXH94J8_bh-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-44" value="读branchinfo.txt&lt;br&gt;获取ipsName" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="250" width="110" height="40" as="geometry" />
