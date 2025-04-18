@@ -600,6 +600,9 @@
         <mxCell id="GrXYVL5tApbXH94J8_bh-10" value="拼接命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="440" width="110" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-12" target="GrXYVL5tApbXH94J8_bh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-12" value="TableLogic.xml&lt;br&gt;存在该表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1355" y="582.5" width="120" height="100" as="geometry" />
         </mxCell>
@@ -610,7 +613,7 @@
           <mxGeometry x="-1350" y="508.75" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1200" y="603" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1180" y="605.25" width="130" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
