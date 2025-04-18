@@ -672,7 +672,7 @@
           <mxGeometry x="-742.89" y="543.75" width="125" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-60" value="&lt;div&gt;需要提交的文件&lt;/div&gt;files =&amp;nbsp;&amp;nbsp;bytes+配置表+ 其他文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-772.64" y="744.39" width="179.5" height="57.5" as="geometry" />
+          <mxGeometry x="-772.64" y="730" width="179.5" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-62" target="9H3wD_S3jYXgOb2AgB-T-34">
           <mxGeometry relative="1" as="geometry" />
@@ -686,6 +686,9 @@
             <mxPoint x="-683.14" y="663.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GrXYVL5tApbXH94J8_bh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-65" target="GrXYVL5tApbXH94J8_bh-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-65" value="记录生成的bytes文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-742.89" y="608.75" width="125" height="40" as="geometry" />
         </mxCell>
@@ -698,7 +701,7 @@
           <mxGeometry x="-590.5899999999998" y="522.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-73" value="筛选有变更的bytes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="968.13" width="130" height="50" as="geometry" />
+          <mxGeometry x="-745.39" y="675" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
