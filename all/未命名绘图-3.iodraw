@@ -29,7 +29,7 @@
         <mxCell id="sXus3ZveV_jTFedlbuJy-7" value="检验处理成功" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="306.5" y="595" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sXus3ZveV_jTFedlbuJy-12" value="表格+其他文件提交流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="sXus3ZveV_jTFedlbuJy-12" value="老表格+其他文件提交流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="40" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-16" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
