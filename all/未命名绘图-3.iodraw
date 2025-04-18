@@ -669,7 +669,7 @@
           <mxGeometry x="-1379.9999999999998" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-39" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-979.9999999999998" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1294.9999999999998" y="398.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-40" value="读TableLogic.xml&lt;br&gt;获取关联表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="334" width="130" height="47" as="geometry" />
