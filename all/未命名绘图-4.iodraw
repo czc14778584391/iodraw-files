@@ -704,6 +704,9 @@
         <mxCell id="GrXYVL5tApbXH94J8_bh-73" value="筛选有变更的bytes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-745.39" y="675" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-1" value="更新流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="-1160" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
