@@ -722,7 +722,7 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-6" value="新需求/bug修复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="-1070" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dt9GpdojUPjtHzbVCCCT-7" value="package.json&lt;div&gt;修改版本号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-7" value="package.json&lt;div&gt;升级版本号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="-1020" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-8" value="update-content.txt&lt;br&gt;&lt;div&gt;版本内容&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
