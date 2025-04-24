@@ -758,8 +758,16 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-16" value="安装包签名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1420" y="-760" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dt9GpdojUPjtHzbVCCCT-17" target="dt9GpdojUPjtHzbVCCCT-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-17" value="前端资源&lt;br&gt;https://lwork.woa.com/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="-760" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dt9GpdojUPjtHzbVCCCT-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1430" y="-630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;https://9.134.50.217&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1420" y="-690" width="120" height="40" as="geometry" />
@@ -771,7 +779,7 @@
           <mxGeometry x="-1540" y="-800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-24" value="版本发布成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1516.25" y="-630" width="170" height="36" as="geometry" />
+          <mxGeometry x="-1516.25" y="-620" width="170" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
