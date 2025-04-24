@@ -782,7 +782,7 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-28" value="启动工作台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1055" y="-1080" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dt9GpdojUPjtHzbVCCCT-29" value="启动工作台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1055" y="-1040" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
