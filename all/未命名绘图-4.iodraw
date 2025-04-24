@@ -723,7 +723,10 @@
           <mxGeometry x="-1490" y="-1070" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-7" value="package.json&lt;div&gt;修改版本号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1490" y="-1020" width="110" height="30" as="geometry" />
+          <mxGeometry x="-1490" y="-1020" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-8" value="package.json&lt;div&gt;修改版本号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="-960" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
