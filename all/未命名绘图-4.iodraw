@@ -752,7 +752,7 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-14" value="执行编译打包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="-840" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dt9GpdojUPjtHzbVCCCT-16" value="exe安装包&lt;div style=&quot;text-align: left;&quot;&gt;https://&lt;font face=&quot;PingFang SC, Microsoft YaHei, 微软雅黑, Noto Sans CJK SC, sans-serif, Roboto, Droid Sans, Helvetica, Tahoma, Arial, Hiragino Sans GB, Heiti SC&quot;&gt;&lt;span style=&quot;font-size: 15px; white-space: pre;&quot;&gt;9.134.50.217&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-16" value="exe安装包&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1420" y="-760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-17" value="前端资源&lt;br&gt;https://lwork.woa.com/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
