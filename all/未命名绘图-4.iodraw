@@ -802,8 +802,8 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-34" value="展示更新内容弹框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1055" y="-880" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dt9GpdojUPjtHzbVCCCT-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1055" y="-830" width="107.5" height="30" as="geometry" />
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-36" value="&lt;span style=&quot;text-align: left;&quot;&gt;https://9.134.50.217&lt;br&gt;下载安装包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1055" y="-830" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
