@@ -752,14 +752,14 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-14" value="执行编译打包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="-840" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dt9GpdojUPjtHzbVCCCT-16" value="exe安装包&lt;div style=&quot;text-align: left;&quot;&gt;https://9.134.50.217&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-16" value="安装包签名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1420" y="-760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-17" value="前端资源&lt;br&gt;https://lwork.woa.com/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="-760" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-20" value="exe安装包&lt;div style=&quot;text-align: left;&quot;&gt;https://9.134.50.217&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1410" y="-750" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1420" y="-700" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
