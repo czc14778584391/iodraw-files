@@ -707,8 +707,8 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-1" value="更新流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="-1160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dt9GpdojUPjtHzbVCCCT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=default;strokeColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1570" y="-1090" width="285" height="524" as="geometry" />
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=default;strokeColor=default;gradientColor=none;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="-1577.5" y="-1090" width="297.5" height="524" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1152.5" y="-1084" width="282.5" height="500" as="geometry" />
