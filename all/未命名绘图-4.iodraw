@@ -793,6 +793,9 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-29" value="请求latest.yml&lt;div&gt;获取版本号、更新内容&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1067.5" y="-1030" width="135" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-33" value="新版本？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="-960" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
