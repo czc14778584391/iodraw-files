@@ -743,11 +743,17 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-12" value="推送触发流水线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="-900" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dt9GpdojUPjtHzbVCCCT-14" target="dt9GpdojUPjtHzbVCCCT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dt9GpdojUPjtHzbVCCCT-14" target="dt9GpdojUPjtHzbVCCCT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-14" value="执行编译打包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="-840" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-16" value="执行编译打包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1420" y="-770" width="110" height="40" as="geometry" />
+          <mxGeometry x="-1420" y="-770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-17" value="前端资源&lt;br&gt;https://lwork.woa.com/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="-770" width="130" height="40" as="geometry" />
