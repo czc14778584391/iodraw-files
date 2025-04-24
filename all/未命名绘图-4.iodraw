@@ -711,7 +711,7 @@
           <mxGeometry x="-1580" y="-1090" width="297.5" height="524" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-1200" y="-1090" width="292.5" height="520" as="geometry" />
+          <mxGeometry x="-1213.75" y="-1090" width="292.5" height="520" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-4" value="用户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1106.25" y="-1130" width="60" height="30" as="geometry" />
@@ -775,6 +775,9 @@
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-23" value="存放" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="-800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dt9GpdojUPjtHzbVCCCT-24" target="dt9GpdojUPjtHzbVCCCT-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-24" value="版本发布成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1516.25" y="-620" width="170" height="36" as="geometry" />
