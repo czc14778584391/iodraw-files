@@ -710,7 +710,7 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=default;strokeColor=default;gradientColor=none;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="-1580" y="-1090" width="297.5" height="524" as="geometry" />
         </mxCell>
-        <mxCell id="dt9GpdojUPjtHzbVCCCT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-1152.5" y="-1084" width="282.5" height="500" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-4" value="用户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
