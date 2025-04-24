@@ -708,7 +708,7 @@
           <mxGeometry x="-1270" y="-1160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1570" y="-1084" width="280" height="500" as="geometry" />
+          <mxGeometry x="-1570" y="-1084" width="280" height="524" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1152.5" y="-1084" width="282.5" height="500" as="geometry" />
@@ -753,10 +753,10 @@
           <mxGeometry x="-1490" y="-840" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-16" value="执行编译打包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1420" y="-770" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1420" y="-760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-17" value="前端资源&lt;br&gt;https://lwork.woa.com/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="-770" width="130" height="40" as="geometry" />
+          <mxGeometry x="-1560" y="-760" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
