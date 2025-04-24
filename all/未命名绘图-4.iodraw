@@ -796,8 +796,8 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-33" value="新版本？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="-960" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dt9GpdojUPjtHzbVCCCT-34" value="新需求/bug修复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="-1060" width="110" height="30" as="geometry" />
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-34" value="展示更新内容弹框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1055" y="-880" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
