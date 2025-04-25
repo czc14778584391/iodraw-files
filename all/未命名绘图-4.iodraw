@@ -711,7 +711,7 @@
           <mxGeometry x="-1550" y="-720" width="363.75" height="610" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-1133.75" y="-720" width="292.5" height="610" as="geometry" />
+          <mxGeometry x="-1133.75" y="-720" width="443.75" height="610" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-4" value="用户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1020" y="-750" width="60" height="30" as="geometry" />
@@ -824,7 +824,7 @@
           <mxGeometry x="-1045" y="-280" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-45" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1080" y="-540" width="60" height="30" as="geometry" />
+          <mxGeometry x="-935" y="-545" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-46" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-995" y="-490" width="60" height="30" as="geometry" />
@@ -848,6 +848,9 @@
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-54" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1450" y="-660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-55" value="&lt;div style=&quot;text-align: left;&quot;&gt;结束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1035" y="-270" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
