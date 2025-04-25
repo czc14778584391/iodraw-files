@@ -711,7 +711,7 @@
           <mxGeometry x="-1550" y="-720" width="363.75" height="610" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="-720" width="380" height="610" as="geometry" />
+          <mxGeometry x="-1130" y="-720" width="370" height="610" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-4" value="用户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-960" y="-760" width="60" height="30" as="geometry" />
