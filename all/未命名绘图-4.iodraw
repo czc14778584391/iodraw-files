@@ -851,6 +851,9 @@
         <mxCell id="dt9GpdojUPjtHzbVCCCT-49" value="electron&lt;br&gt;修改" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="-660" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dt9GpdojUPjtHzbVCCCT-53" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-985" y="-480" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
