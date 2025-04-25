@@ -705,16 +705,16 @@
           <mxGeometry x="-745.39" y="675" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-1" value="更新流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1190" y="-750" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1186.25" y="-790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=default;strokeColor=default;gradientColor=none;fillStyle=hatch;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="-710" width="363.75" height="600" as="geometry" />
+          <mxGeometry x="-1550" y="-720" width="363.75" height="610" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-1133.75" y="-680" width="292.5" height="520" as="geometry" />
+          <mxGeometry x="-1133.75" y="-720" width="292.5" height="560" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-4" value="用户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1026.25" y="-720" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1020" y="-750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-5" value="开发端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1386.25" y="-750" width="60" height="30" as="geometry" />
