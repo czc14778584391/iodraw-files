@@ -919,7 +919,7 @@
           <mxGeometry x="2110" y="-287.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-26" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;日志上报流程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="-910" width="185" height="30" as="geometry" />
+          <mxGeometry x="337.5" y="-910" width="192.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
