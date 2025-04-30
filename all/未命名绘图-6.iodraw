@@ -909,8 +909,11 @@
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-21" value="使用svn commit -m ‘ tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="570" width="130" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="OYjyGRgc4RHiOTUdAUPT-23" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillStyle=hatch;" vertex="1" parent="1">
+        <mxCell id="OYjyGRgc4RHiOTUdAUPT-23" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillStyle=hatch;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="-1390" y="-90" width="3030" height="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="OYjyGRgc4RHiOTUdAUPT-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-88" y="-10" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
