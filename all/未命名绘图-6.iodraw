@@ -415,7 +415,7 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-7" value="校验成功" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-509.0899999999998" y="408.75" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9H3wD_S3jYXgOb2AgB-T-8" value="表格+其他文件提交流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9H3wD_S3jYXgOb2AgB-T-8" value="新表格+其他文件提交流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-564.09" y="33.75" width="222.6" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9H3wD_S3jYXgOb2AgB-T-11" target="9H3wD_S3jYXgOb2AgB-T-14" edge="1">
