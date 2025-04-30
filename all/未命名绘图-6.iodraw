@@ -190,9 +190,6 @@
         <mxCell id="sXus3ZveV_jTFedlbuJy-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sXus3ZveV_jTFedlbuJy-88" target="sXus3ZveV_jTFedlbuJy-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sXus3ZveV_jTFedlbuJy-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sXus3ZveV_jTFedlbuJy-88" target="sXus3ZveV_jTFedlbuJy-95" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-88" value="检验处理成功" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="450" width="110" height="80" as="geometry" />
         </mxCell>
@@ -209,7 +206,7 @@
           <mxGeometry x="1040" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-95" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="975" y="560" width="120" height="50" as="geometry" />
+          <mxGeometry x="975" y="655" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sXus3ZveV_jTFedlbuJy-98" value="重新提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1150" y="100" width="60" height="30" as="geometry" />
@@ -886,40 +883,40 @@
           <mxGeometry x="1370" y="270" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="710" width="120" height="50" as="geometry" />
+          <mxGeometry x="1195" y="638.75" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OYjyGRgc4RHiOTUdAUPT-12" target="OYjyGRgc4RHiOTUdAUPT-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-12" value="使用svn commit -m ‘ tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="610" width="130" height="65" as="geometry" />
+          <mxGeometry x="1190" y="538.75" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="710" width="120" height="50" as="geometry" />
+          <mxGeometry x="1195" y="638.75" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OYjyGRgc4RHiOTUdAUPT-15" target="OYjyGRgc4RHiOTUdAUPT-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-15" value="使用svn commit -m ‘ tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="610" width="130" height="65" as="geometry" />
+          <mxGeometry x="1190" y="538.75" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="710" width="120" height="50" as="geometry" />
+          <mxGeometry x="1195" y="638.75" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OYjyGRgc4RHiOTUdAUPT-18" target="OYjyGRgc4RHiOTUdAUPT-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-18" value="使用svn commit -m ‘ tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="610" width="130" height="65" as="geometry" />
+          <mxGeometry x="1190" y="538.75" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="710" width="120" height="50" as="geometry" />
+          <mxGeometry x="1195" y="638.75" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OYjyGRgc4RHiOTUdAUPT-21" target="OYjyGRgc4RHiOTUdAUPT-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OYjyGRgc4RHiOTUdAUPT-21" value="使用svn commit -m ‘ tapd’ paths&lt;br&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="610" width="130" height="65" as="geometry" />
+          <mxGeometry x="1190" y="538.75" width="130" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
