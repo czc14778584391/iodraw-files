@@ -993,7 +993,7 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-50" value="日志类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="-450" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RdWEjOylAj9N2kWOU8yv-51" value="日志类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-51" value="处理耗时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="-450" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
