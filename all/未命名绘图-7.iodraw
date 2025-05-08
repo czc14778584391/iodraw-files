@@ -948,6 +948,12 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-13" value="接口请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="-750" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-14" value="接口请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="499" y="-750" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-15" value="接口请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="-740" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
