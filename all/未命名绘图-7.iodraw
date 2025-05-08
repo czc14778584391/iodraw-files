@@ -982,7 +982,7 @@
           <mxGeometry x="207.5" y="-480" width="382.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-47" value="日志分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="364" y="-480" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="-480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-48" value="成员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="-450" width="60" height="20" as="geometry" />
@@ -992,6 +992,9 @@
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-50" value="日志类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="-450" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-51" value="日志类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-450" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
