@@ -1002,6 +1002,9 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-60" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;L1工作台架构&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1315.5" y="-920" width="148" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-62" value="日志分析页面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="1480" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
