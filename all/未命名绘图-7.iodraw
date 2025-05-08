@@ -1000,7 +1000,10 @@
           <mxGeometry x="515" y="-445" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-55" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="-745" width="120" height="80" as="geometry" />
+          <mxGeometry x="338.75" y="-750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-56" value="log打印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="-670" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
