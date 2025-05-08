@@ -922,7 +922,10 @@
           <mxGeometry x="333.75" y="-915" width="192.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-1" value="启动工作台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-293" y="-750" width="110" height="30" as="geometry" />
+          <mxGeometry x="110" y="-820" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-860" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
