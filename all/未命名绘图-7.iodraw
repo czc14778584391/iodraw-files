@@ -985,13 +985,13 @@
           <mxGeometry x="370" y="-480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-48" value="成员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="221.75" y="-450" width="60" height="20" as="geometry" />
+          <mxGeometry x="222.5" y="-445" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-49" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="-450" width="60" height="20" as="geometry" />
+          <mxGeometry x="297.5" y="-445" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-50" value="日志类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-450" width="60" height="20" as="geometry" />
+          <mxGeometry x="368.75" y="-445" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-51" value="处理耗时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-450" width="60" height="20" as="geometry" />
