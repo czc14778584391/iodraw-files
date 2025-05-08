@@ -960,6 +960,9 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-17" value="node异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278.5" y="-690" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-18" value="接口异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="-710" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
