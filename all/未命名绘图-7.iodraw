@@ -924,8 +924,8 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-3" value="1.主进程&lt;br&gt;&amp;nbsp;&amp;nbsp;ws通信记录（包括请求参数）&lt;br&gt;&amp;nbsp;&amp;nbsp;接口请求&lt;br&gt;&amp;nbsp;&amp;nbsp;异常铺捉&lt;br&gt;&amp;nbsp;&amp;nbsp;消耗时间&lt;br&gt;&amp;nbsp;&amp;nbsp;日志打印&lt;br&gt;&lt;br&gt;&amp;nbsp;2.渲染进程&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;接口请求异常&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br&gt;3.&amp;nbsp;限制文件大小&lt;br&gt;4.&amp;nbsp;日志上传&lt;br&gt;5.日志分析展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="-730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RdWEjOylAj9N2kWOU8yv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
-          <mxGeometry x="81.5" y="-815" width="567" height="140" as="geometry" />
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115.5" y="-830" width="322" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
