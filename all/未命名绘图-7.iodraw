@@ -969,6 +969,12 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="-612.5" width="380" height="255" as="geometry" />
         </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="238.5" y="-580" width="142" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-22" value="主进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="-612.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
