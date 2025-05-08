@@ -958,7 +958,7 @@
           <mxGeometry x="279.5" y="-670" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="201.5" y="-435" width="380" height="255" as="geometry" />
+          <mxGeometry x="20" y="-712.5" width="380" height="255" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="230.25" y="-410" width="147" height="190" as="geometry" />
@@ -985,22 +985,22 @@
           <mxGeometry x="274.25" y="-257.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-450" width="150" height="190" as="geometry" />
+          <mxGeometry x="402.5" y="-410" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-35" value="渲染进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="-570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-36" value="ws通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="-377.5" width="60" height="20" as="geometry" />
+          <mxGeometry x="447.5" y="-370" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-37" value="接口请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="-347.5" width="60" height="20" as="geometry" />
+          <mxGeometry x="447.5" y="-340" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-38" value="接口异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="-317.5" width="60" height="20" as="geometry" />
+          <mxGeometry x="447.5" y="-310" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-39" value="log打印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="-287.5" width="60" height="20" as="geometry" />
+          <mxGeometry x="447.5" y="-280" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
