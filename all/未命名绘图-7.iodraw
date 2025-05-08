@@ -957,11 +957,8 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-36" value="ws通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="-772.5" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RdWEjOylAj9N2kWOU8yv-37" value="接口请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="-740" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-38" value="接口异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="-710" width="60" height="20" as="geometry" />
+          <mxGeometry x="455" y="-740" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-41" value="Lwork" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="-832.5" width="60" height="30" as="geometry" />
