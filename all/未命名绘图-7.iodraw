@@ -925,7 +925,7 @@
           <mxGeometry x="740" y="-730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="196" y="-850" width="434.5" height="390" as="geometry" />
+          <mxGeometry x="196" y="-855" width="434.5" height="390" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="238.5" y="-805" width="142" height="170" as="geometry" />
@@ -965,6 +965,9 @@
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-19" value="log打印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279.5" y="-670" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
