@@ -961,7 +961,7 @@
           <mxGeometry x="201.5" y="-435" width="380" height="255" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="233" y="-410" width="147" height="190" as="geometry" />
+          <mxGeometry x="230.25" y="-410" width="147" height="190" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-22" value="主进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="279" y="-612.5" width="60" height="30" as="geometry" />
