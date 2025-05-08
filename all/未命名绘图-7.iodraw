@@ -991,16 +991,16 @@
           <mxGeometry x="455" y="-407.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-36" value="ws通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="-770" width="60" height="20" as="geometry" />
+          <mxGeometry x="455" y="-377.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-37" value="接口请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="-740" width="60" height="20" as="geometry" />
+          <mxGeometry x="455" y="-347.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-38" value="接口异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="-710" width="60" height="20" as="geometry" />
+          <mxGeometry x="455" y="-317.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-39" value="log打印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="-680" width="60" height="20" as="geometry" />
+          <mxGeometry x="455" y="-287.5" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
