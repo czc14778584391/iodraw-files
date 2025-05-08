@@ -925,19 +925,19 @@
           <mxGeometry x="740" y="-730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="196" y="-925" width="434.5" height="390" as="geometry" />
+          <mxGeometry x="196" y="-840" width="434.5" height="390" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
-          <mxGeometry x="238.5" y="-800" width="142" height="170" as="geometry" />
+          <mxGeometry x="238.5" y="-805" width="142" height="170" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
-          <mxGeometry x="458" y="-800" width="142" height="170" as="geometry" />
+          <mxGeometry x="458" y="-805" width="142" height="170" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-9" value="主进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="279" y="-830" width="60" height="30" as="geometry" />
+          <mxGeometry x="279" y="-835" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-10" value="渲染进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="499" y="-830" width="60" height="30" as="geometry" />
+          <mxGeometry x="499" y="-840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-11" value="ws通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="-790" width="60" height="20" as="geometry" />
