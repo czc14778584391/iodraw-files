@@ -985,16 +985,19 @@
           <mxGeometry x="370" y="-480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-48" value="成员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="-450" width="60" height="20" as="geometry" />
+          <mxGeometry x="230" y="-450" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-49" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-450" width="60" height="20" as="geometry" />
+          <mxGeometry x="306.5" y="-450" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-50" value="日志类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-450" width="60" height="20" as="geometry" />
+          <mxGeometry x="380" y="-450" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-51" value="处理耗时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="-450" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-52" value="处理耗时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="-440" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
