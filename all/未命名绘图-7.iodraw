@@ -936,8 +936,8 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-23" value="主进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="281.75" y="-802.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RdWEjOylAj9N2kWOU8yv-29" value="ws通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281.25" y="-772.5" width="60" height="20" as="geometry" />
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-29" value="ws通信响应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271.88" y="-772.5" width="78.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-30" value="electron接口请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-742.5" width="100" height="20" as="geometry" />
