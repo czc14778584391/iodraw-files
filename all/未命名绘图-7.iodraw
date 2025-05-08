@@ -972,8 +972,8 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-41" value="Lwork" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="361.5" y="-845" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RdWEjOylAj9N2kWOU8yv-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-605" width="120" height="60" as="geometry" />
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-44" value="日志上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-600" width="297.5" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
