@@ -967,10 +967,10 @@
           <mxGeometry x="455" y="-710" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-39" value="渲染log打印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="-680" width="75" height="20" as="geometry" />
+          <mxGeometry x="440" y="-680" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-41" value="Lwork" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-832.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="-830" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-44" value="日志上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-605" width="320" height="45" as="geometry" />
