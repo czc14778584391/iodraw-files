@@ -1002,6 +1002,9 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-39" value="log打印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="-280" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="RdWEjOylAj9N2kWOU8yv-41" value="Lwork" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-450" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
