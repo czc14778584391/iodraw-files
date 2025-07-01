@@ -534,7 +534,7 @@
           <mxGeometry x="-1262.5" y="141.88" width="95" height="66.25" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-4" value="提交的表是否在&lt;br&gt;关联表内" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1272.5" y="392.5" width="115" height="96.25" as="geometry" />
+          <mxGeometry x="-1276.25" y="392.5" width="122.5" height="96.25" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GrXYVL5tApbXH94J8_bh-10" target="GrXYVL5tApbXH94J8_bh-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -607,6 +607,9 @@
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-39" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-949.9999999999998" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iycypJ-y78aqHwdQfeS_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-40" target="GrXYVL5tApbXH94J8_bh-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-40" value="读TableLogic.xml&lt;br&gt;获取所有关联表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1280" y="310" width="130" height="47" as="geometry" />
