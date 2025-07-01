@@ -611,7 +611,7 @@
           <mxGeometry x="-1299.9999999999998" y="138.13" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-39" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-949.9999999999998" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1219.9999999999998" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iycypJ-y78aqHwdQfeS_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-40" target="GrXYVL5tApbXH94J8_bh-4">
           <mxGeometry relative="1" as="geometry" />
@@ -985,6 +985,9 @@
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-67" value="支持上传文件分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="1655" width="117" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iycypJ-y78aqHwdQfeS_-4" value="拼接命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1255" y="562.5" width="110" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
