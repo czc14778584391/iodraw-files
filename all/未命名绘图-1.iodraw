@@ -538,6 +538,9 @@
             <mxPoint x="-1215.2222222222222" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iycypJ-y78aqHwdQfeS_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-4" target="iycypJ-y78aqHwdQfeS_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-4" value="提交的表是否在&lt;br&gt;关联表内" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1276.25" y="392.5" width="122.5" height="96.25" as="geometry" />
         </mxCell>
@@ -987,7 +990,10 @@
           <mxGeometry x="270" y="1655" width="117" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iycypJ-y78aqHwdQfeS_-4" value="拼接命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1255" y="562.5" width="110" height="45" as="geometry" />
+          <mxGeometry x="-1100" y="418.13" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="iycypJ-y78aqHwdQfeS_-6" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1167.4999999999998" y="393.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
