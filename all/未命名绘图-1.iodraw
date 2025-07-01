@@ -619,8 +619,11 @@
         <mxCell id="GrXYVL5tApbXH94J8_bh-39" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-954.9999999999998" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GrXYVL5tApbXH94J8_bh-40" value="读TableLogic.xml&lt;br&gt;获取所有关联表&lt;div&gt;加转表队列&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GrXYVL5tApbXH94J8_bh-40" value="读TableLogic.xml&lt;br&gt;获取所有关联表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1280" y="310" width="130" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iycypJ-y78aqHwdQfeS_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-44" target="GrXYVL5tApbXH94J8_bh-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-44" value="读branchinfo.txt&lt;br&gt;获取ipsName" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1270" y="233.13" width="110" height="40" as="geometry" />
