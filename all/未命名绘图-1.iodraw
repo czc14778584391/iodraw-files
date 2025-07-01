@@ -533,6 +533,11 @@
         <mxCell id="GrXYVL5tApbXH94J8_bh-2" value="配置表？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1262.5" y="141.88" width="95" height="66.25" as="geometry" />
         </mxCell>
+        <mxCell id="iycypJ-y78aqHwdQfeS_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GrXYVL5tApbXH94J8_bh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1215.2222222222222" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-4" value="提交的表是否在&lt;br&gt;关联表内" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1276.25" y="392.5" width="122.5" height="96.25" as="geometry" />
         </mxCell>
