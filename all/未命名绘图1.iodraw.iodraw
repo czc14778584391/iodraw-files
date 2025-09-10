@@ -995,7 +995,7 @@
         <mxCell id="RdWEjOylAj9N2kWOU8yv-67" value="支持上传文件分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="1655" width="117" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="71lNq0E4PeJz0xlLFVTm-2" value="&lt;div&gt;对待提交配置表&lt;/div&gt;执行本地转表（覆盖）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="71lNq0E4PeJz0xlLFVTm-2" value="更新bytes文件目录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-750.39" y="510" width="125" height="42.5" as="geometry" />
         </mxCell>
       </root>
