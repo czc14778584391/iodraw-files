@@ -674,7 +674,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrXYVL5tApbXH94J8_bh-73" value="筛选有变更的bytes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-750.39" y="690" width="130" height="50" as="geometry" />
+          <mxGeometry x="-758" y="705" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dt9GpdojUPjtHzbVCCCT-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;自动更新流程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-438" y="-910" width="148" height="30" as="geometry" />
@@ -994,6 +994,9 @@
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-67" value="支持上传文件分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="1655" width="117" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71lNq0E4PeJz0xlLFVTm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="71lNq0E4PeJz0xlLFVTm-2" target="GrXYVL5tApbXH94J8_bh-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="71lNq0E4PeJz0xlLFVTm-2" value="更新bytes文件目录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-750.39" y="510" width="125" height="42.5" as="geometry" />
