@@ -512,9 +512,6 @@
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9H3wD_S3jYXgOb2AgB-T-111" target="9H3wD_S3jYXgOb2AgB-T-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GrXYVL5tApbXH94J8_bh-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9H3wD_S3jYXgOb2AgB-T-111" target="GrXYVL5tApbXH94J8_bh-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9H3wD_S3jYXgOb2AgB-T-111" value="是否需要&lt;div&gt;提交bytes&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-510.86" y="522.5" width="114.05" height="85" as="geometry" />
         </mxCell>
@@ -997,6 +994,9 @@
         </mxCell>
         <mxCell id="RdWEjOylAj9N2kWOU8yv-67" value="支持上传文件分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="1655" width="117" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71lNq0E4PeJz0xlLFVTm-2" value="&lt;div&gt;对待提交配置表&lt;/div&gt;执行本地转表（覆盖）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750.39" y="510" width="125" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
